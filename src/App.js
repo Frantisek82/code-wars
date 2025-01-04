@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Efectos from "./components/Efectos";
+import { Efectos } from "./components/Efectos";
 
 function App() {
   const [visible, setVisible] = useState(false);
